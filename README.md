@@ -40,3 +40,5 @@ To convert an image to text:
 3. Run the command `imageToText` (given you added the alias. If not, go to the path you cloned this repo and run `bash OCR.sh`).
 4. The text from the image will be printed in the console.
 
+## Demo video
+![OCR-demo](imageToText_demo.gif)
