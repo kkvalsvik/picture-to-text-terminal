@@ -11,10 +11,10 @@ Before you begin, ensure you have the following installed:
      brew install tesseract
      ```
 
-2. **pngcopy**: 
+2. **pngpaste**: 
    - Install using Homebrew:
      ```
-     brew install pngcopy
+     brew install pngpaste
      ```
    - Alternatively, you can download it manually from their official repositories.
 
