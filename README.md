@@ -29,7 +29,7 @@ To use the OCR tool from any directory:
      ```
    - Replace YOUR_PATH_TO_THIS_REPO with the actual path you have cloned this to.
 
-Alternatively, you can make the script executable and add its directory to your PATH instead of using aliases.
+Alternatively, you can make the script executable (by running "_*chmod +x /YOUR_PATH_TO_THIS_REPO/OCR.sh*_") and add its directory to your PATH instead of using aliases.
 
 ## Usage
 
