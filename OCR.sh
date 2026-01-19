@@ -8,4 +8,4 @@ tmpfile="$repo_path/clipboard.png"
 pngpaste "$tmpfile"
 
 # Use Tesseract to perform OCR on the image and output text to the terminal
-tesseract "$tmpfile" stdout
+tesseract "$tmpfile" stdout 2> >(grep -v "^Estimating resolution as " >&2)
